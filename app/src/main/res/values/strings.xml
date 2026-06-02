@@ -1,0 +1,69 @@
+<resources>
+
+    <string name="app_name">Pulse</string>
+    <string name="app_description">Your Daily Wellness Companion</string>
+
+
+    <string name="habits">Habits</string>
+    <string name="mood">Mood</string>
+    <string name="chart">Chart</string>
+    <string name="settings">Settings</string>
+
+
+    <string name="daily_habits">Daily Habits</string>
+    <string name="add_new_habit">Add New Habit</string>
+    <string name="habit_title">Habit Title</string>
+    <string name="habit_description">Description</string>
+    <string name="target_count">Target Count</string>
+    <string name="enter_habit_title">Enter habit title</string>
+    <string name="enter_description">Enter description</string>
+    <string name="enter_target_count">Enter target count</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="reset_progress">Reset Progress</string>
+
+
+    <string name="mood_journal">Mood Journal</string>
+    <string name="how_are_you_feeling">How are you feeling?</string>
+    <string name="add_notes_optional">Add Notes (Optional)</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="share_your_mood">Share your mood</string>
+
+
+    <string name="mood_trends">Mood Trends</string>
+    <string name="mood_trends_last_7_days">Mood Trends - Last 7 Days</string>
+    <string name="mood_scale">Mood Scale: 1 (Low) - 10 (High)</string>
+    <string name="mood_trend">Mood Trend</string>
+
+
+    <string name="hydration_reminder">Hydration Reminder</string>
+    <string name="enable_reminder">Enable Reminder</string>
+    <string name="reminder_interval">Reminder Interval</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="hydration_reminder_set">Hydration reminder set for every %d minutes</string>
+    <string name="hydration_reminder_disabled">Hydration reminder disabled</string>
+
+
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="skip">Skip</string>
+    <string name="loading">Loading…</string>
+
+
+    <string name="hydration_notification_title">💧 Time to Hydrate!</string>
+    <string name="hydration_notification_text">Don\'t forget to drink a glass of water</string>
+    <string name="hydration_channel_name">Hydration Reminder</string>
+    <string name="hydration_channel_description">Reminders to drink water regularly</string>
+
+
+    <string name="no_habits">No habits yet. Tap + to add your first habit!</string>
+    <string name="no_mood_entries">No mood entries yet. Tap + to log your first mood!</string>
+    <string name="no_chart_data">Not enough data yet. Log more moods to see your trends!</string>
+
+
+    <string name="share_mood_text">My current mood: %1$s %2$s\n\nNotes: %3$s\n\nShared via Pulse Wellness App</string>
+    <string name="share_habit_text">I\'m tracking my habit: %1$s\n\nCurrent progress: %2$d%%\n\nUsing Pulse Wellness App</string>
+</resources>
